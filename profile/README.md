@@ -27,3 +27,7 @@ Aeron also offer a range of premium components and support, find out more on our
 Find the full documentation and explore more [here](https://aeron.io/docs).
 
 Aeron is sponsored by [Adaptive](https://weareadaptive.com)
+
+[Aeron Trademark policy](https://aeron.io/aeron-open-source-trademark-policy/)
+
+
